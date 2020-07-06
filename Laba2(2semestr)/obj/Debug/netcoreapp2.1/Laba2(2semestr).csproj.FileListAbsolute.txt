@@ -1,0 +1,11 @@
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\bin\Debug\netcoreapp2.1\Laba2(2semestr).deps.json
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\bin\Debug\netcoreapp2.1\Laba2(2semestr).runtimeconfig.json
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\bin\Debug\netcoreapp2.1\Laba2(2semestr).runtimeconfig.dev.json
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\bin\Debug\netcoreapp2.1\Laba2(2semestr).dll
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\bin\Debug\netcoreapp2.1\Laba2(2semestr).pdb
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\obj\Debug\netcoreapp2.1\Laba2(2semestr).csprojAssemblyReference.cache
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\obj\Debug\netcoreapp2.1\Laba2(2semestr).csproj.CoreCompileInputs.cache
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\obj\Debug\netcoreapp2.1\Laba2(2semestr).AssemblyInfoInputs.cache
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\obj\Debug\netcoreapp2.1\Laba2(2semestr).AssemblyInfo.cs
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\obj\Debug\netcoreapp2.1\Laba2(2semestr).dll
+C:\Users\asmet\Desktop\C#\Laba2(2semestr)\Laba2(2semestr)\obj\Debug\netcoreapp2.1\Laba2(2semestr).pdb
